@@ -6,7 +6,7 @@
 <h1 align="center">Hello there, I'm Saroz</h1>
 <h3 align="center">A passionate frontend developer/ Video Editor/ Animator from Nepal</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 <img align="right" alt="Coding" width="400" src="https://umcreatives.com/superscript/2019/09/VeditGif.gif">
 
 - 🌱 I’m currently learning **HTML, CSS, JAVA Script**
